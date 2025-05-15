@@ -1,4 +1,4 @@
 packageDeclarationVersion: 1
 name: container-app
 version: 0.6.1
-downloadUrl: git://github.com/adamgordonbell/pulumi-idp@v0.6.1/components/container-app
+downloadUrl: git://github.com/adamgordonbell/pulumi-idp/components/container-app@0.6.1

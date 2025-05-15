@@ -2,7 +2,7 @@ name: ${PROJECT}
 description: ${DESCRIPTION}
 runtime: nodejs
 packages:
-  container-app: github.com/adamgordonbell/pulumi-idp/components/container-app@v0.6.1
+  container-app: github.com/adamgordonbell/pulumi-idp@v0.6.1/components/container-app
 # Define the template's configuration settings
 template:
   description: A containerized chatbot application deployed to AWS ECS Fargate with an Application Load Balancer
